@@ -1,12 +1,19 @@
+body {
+  background-image: url("../img/bon-iver.jpeg");
 
-img {
-  opacity: 0.5;
-  width: 50%;
-  height: 50%;
 }
 
-.sidebar {
-  float: right;
+.something {
+  text-align: center;
   background-color: salmon;
+  border: 3px solid purple;
+  padding: 3px;
+}
 
+
+.sidebar {
+  background-color: salmon;
+  border: 6px solid yellow;
+  float: right;
+  text-align: center;
 }
