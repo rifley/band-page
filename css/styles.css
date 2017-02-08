@@ -1,0 +1,12 @@
+
+img {
+  opacity: 0.5;
+  width: 50%;
+  height: 50%;
+}
+
+.sidebar {
+  float: right;
+  background-color: salmon;
+
+}
